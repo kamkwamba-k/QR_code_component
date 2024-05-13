@@ -56,6 +56,7 @@ main .qr_component {
 
 .qr_component .text_container h2 {
     color: var(--dark-blue);
+    font-family: outfit;
     font-size: 22px;
     font-weight: 700;
     margin-bottom: 15px;
@@ -63,6 +64,7 @@ main .qr_component {
 
 .qr_component .text_container p {
     color: var(--grayish-blue);
+    font-family: outfit;
     font-size: 15px;
     font-weight: 400;
     text-align: center;
