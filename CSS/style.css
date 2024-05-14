@@ -54,7 +54,7 @@ main .qr_component {
     padding: 4px 16px;
 }
 
-.qr_component .text_container h2 {
+.qr_component .text_container h1 {
     color: var(--dark-blue);
     font-family: outfit;
     font-size: 22px;
